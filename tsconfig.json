@@ -1,6 +1,20 @@
 {
-  "extends": "expo/tsconfig.base",
-  "compilerOptions": {
-    "strict": true
-  }
+	"extends": "expo/tsconfig.base",
+	"compilerOptions": {
+		//Modules
+		"module": "ES2015",
+		"allowImportingTsExtensions": true,
+
+		// Interop Constraints
+		"isolatedModules": true,
+		"forceConsistentCasingInFileNames": true,
+
+		// Type Check
+		"strict": true,
+		"strictNullChecks": false,
+		"noUnusedLocals": false,
+		"noUnusedParameters": false,
+		"noFallthroughCasesInSwitch": true,
+	},
 }
+
