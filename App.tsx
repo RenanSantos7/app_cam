@@ -13,8 +13,6 @@ import {
 
 export default function App() {
 	const [image, setImage] = useState('');
-	const [camStatus, requestCamPermission] =
-		ImagePicker.useCameraPermissions();
 
 	const options: ImagePicker.ImagePickerOptions = {
 		mediaTypes: ImagePicker.MediaTypeOptions.All,
