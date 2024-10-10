@@ -1,0 +1,19 @@
+{
+	"assets": [
+		{
+			"assetId": null,
+			"base64": null,
+			"duration": null,
+			"exif": null,
+			"fileName": "1000000039.jpg",
+			"fileSize": 157784,
+			"height": 2393,
+			"mimeType": "image/png",
+			"rotation": null,
+			"type": "image",
+			"uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fapp_cam-593d8675-d1ce-4624-9f8d-a1921b986691/ImagePicker/6e62fe02-d5ea-4bd9-b4ba-4db2c98f32ed.png",
+			"width": 1075
+		}
+	],
+	"canceled": false
+}
